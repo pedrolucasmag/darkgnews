@@ -1,7 +1,7 @@
 # darkgnews
 <p align="center">
 Dark Theme For Google News
-<br>
+<br></br>
 [Google Chrome](https://chrome.google.com/webstore/detail/dark-theme-for-google-new/opajinojlgeoimamfaljdeojmamjepmf)
 <br>
 [Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/dark-theme-for-google-news/)
