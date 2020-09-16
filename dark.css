@@ -248,13 +248,6 @@ div.gb_td.gb_Ud {
     background: var(--lightgrey3)!important;
     color: var(--textcolor)!important;
 }
-.gb_xb .gb_Db {
-    background: var(--lightgrey)!important;
-    border-color: var(--ligthgrey)!important;
-}
-.gb_xb .gb_Db:hover {
-    background: var(--darkgrey)!important;
-}
 .gb_Eb .gb_Db:hover {
     border-color: var(--lightgrey)!important;
     background: var(--darkgrey)!important;
@@ -270,11 +263,6 @@ div.gb_td.gb_Ud {
 .gb_fa {
     background: var(--darkgrey)!important;
     border: 1px solid var(--lightgrey)!important;
-    color: var(--textcolor)!important;
-}
-.gb_xb {
-    background: var(--darkgrey)!important;
-    border: none!important;
     color: var(--textcolor)!important;
 }
 .gb_Ha {
@@ -672,9 +660,6 @@ form.gb_Me {
 .gb_ke {
     background: var(--darkgrey)!important;
 }
-.gb_qe.gb_ve {
-    color: var(--textcolor)!important;
-}
 .gb_2e.gb_jf {
     background: var(--lightgrey)!important;
 }
@@ -716,9 +701,6 @@ form.gb_Me {
     outline: none;
     background: var(--lightgrey)!important;
 }
-.gb_6e.gb_7e {
-    background: var(--lightgrey)!important;
-}
 #gb .gb_Bb a.gb_Jb.gb_Jb:hover {
     background-color: var(--lightgrey)!important;
 }
@@ -743,9 +725,6 @@ form.gb_Me {
 .REXN1d {
     color: var(--textcolor2)!important;
 }
-.gb_ve {
-    background: var(--darkgrey)!important;
-}
 .gb_Be.gb_ze {
     color: var(--textcolor3)!important;
 }
@@ -764,9 +743,6 @@ body:not(.GDqYkf) [data-ogpc]:not(.GDqYkf) {
 }
 .gb_0b {
     background-color: var(--darkgrey)!important;
-}
-.gb_Xb {
-    border-top-color: var(--textcolor2)!important;
 }
 .gb_ac {
     color: var(--textcolor)!important;
@@ -924,9 +900,6 @@ button.gb_cf {
 .gb_ja:not(.gb_ka) .gb_rd {
     background-color: #1b1b1b;
 }
-.gb_ve {
-    background-color: var(--lightgrey)!important;
-}
 .gb_Qe {
     background-color: var(--lightgrey)!important;
 }
@@ -982,9 +955,6 @@ button.gb_cf {
 #gb a.gb_5.gb_5 {
     background-color:var(--lightgrey)!important;
 }
-.gb_Wa {
-    background:var(--darkgrey)!important;
-}
 .gb_sb {
     background:var(--darkgrey)!important;
 }
@@ -1028,9 +998,6 @@ button.gb_cf {
 .sa2DSc ::-webkit-scrollbar-track {
     border: 5px solid  var(--lightgrey)!important;
 }
-.gb_Se {
-    background:var(--lightgrey)!important;
-}
 .KL4X6e {
     background:none!important;
 }
@@ -1069,10 +1036,6 @@ a.gb_Fb.gb_5f.gb_dg.gb_Ne.gb_Vc {
     background-color:var(--midgrey)!important;
     border: none!important;
 }
-.gb_Re {
-    background-color: var(--lightgrey)!important;
-}
-
 .gb_1c:not(.gb_Pe) .gb_Qe, .gb_Ve:not(.gb_5d):not(.gb_Te) {
     background-color: var(--darkgrey)!important;
 }
@@ -1113,9 +1076,6 @@ span.CLrHye {
     color: var(--bluecolor)!important;
     border: none;
 }
-.gb_6e,.gb_7e {
-    background-color: var(--lightgrey)!important;
-}
 .gb_Ze {
         background-color: var(--darkgrey)!important;
 }
@@ -1139,9 +1099,6 @@ span.CLrHye {
 }
 .gb_Mb.gb_Mb,.gb_Pb, .gb_Pb.gb_Mb.gb_Mb, .gb_Ab.gb_Ab {
     color:var(--textcolor)!important;
-}
-.gb_Wa,.gb_Pb {
-    background: var(--lightgrey) !important;
 }
 .gb_Cb.gb_Cb {
     color: var(--bluecolor)!important;
@@ -1184,4 +1141,33 @@ span.CLrHye {
 }
 .gb_ta.gb_ua .gb_Tc .gb_Uc {
     background-color: var(--darkgrey)!important;
+}
+.gb_5e {
+    background:var(--lightgrey)!important;
+}
+.gb_Qc .gb_Rc {
+    background:var(--darkgrey)!important;
+}
+.zWHNCf, .AXKfz {
+    background:var(--darkgrey)!important;
+}
+.gb_Ec {
+    background-color:var(--darkgrey);
+}
+.gb_l .gb_qb {
+    color:var(--textcolor)!important;
+}
+.gb_wb.gb_wb,.gb_Ib {
+    background-color:var(--darkgrey)!important;
+    color: var(--textcolor)!important;
+}
+.gb_wb.gb_wb:hover,.gb_Ib:hover {
+    color: var(--bluecolor)!important;
+}
+.gb_Ab {
+    background-color:var(--lightgrey)!important;
+    border-bottom: 1px solid var(--textcolor)!important;
+}
+.gb_xb {
+    color: var(--lightgrey)!important;
 }

@@ -2,15 +2,17 @@
   "manifest_version": 2,
   "name": "Dark Theme for Google News",
   "description": "Makes the layout of Google News dark while retaining the original feel.",
-  "version": "0.7.0",
+  "version": "1.9.7",
   "author": "Pedro Lucas Oliveira",
   "applications": {
     "gecko": {
-	  "strict_min_version": "43.0",
+	  "strict_min_version": "54.0",
       "id": "darkgnews@addon"
     }
   },
-
+"background": {
+	"scripts": ["background.js"]
+  },
 "content_scripts": [
     {
       "matches": ["*://news.google.com/*"],
