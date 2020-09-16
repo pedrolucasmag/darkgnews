@@ -1,4 +1,5 @@
 # darkgnews
+<p align="center">
 Dark Theme For Google News
 
 
@@ -6,3 +7,5 @@ Dark Theme For Google News
 
 
 [Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/dark-theme-for-google-news/)
+
+</p>
