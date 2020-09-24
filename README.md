@@ -1,5 +1,4 @@
 # darkgnews
-<p align="center">
 Dark Theme For Google News
 
 
