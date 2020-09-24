@@ -1,5 +1,5 @@
 # darkgnews
-Dark Theme For Google News
+Dark Theme extension For Google News
 
 
 [Google Chrome](https://chrome.google.com/webstore/detail/dark-theme-for-google-new/opajinojlgeoimamfaljdeojmamjepmf)
