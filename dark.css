@@ -323,9 +323,6 @@ div.gb_td.gb_Ud {
     background-color: var(--darkgrey)!important;
     border-color: var(--bordercolor)!important;
 }
-.gb_Qe {
-    background-color: var(--darkgrey)!important;
-}
 
 /** New Theme Start **/
 .eCItwe .FVeGwb.ARbOBb,
@@ -585,9 +582,6 @@ form.gb_Me {
 .gb_2e.gb_jf {
     background: var(--lightgrey)!important;
 }
-.gb_qe {
-    background: var(--greybg)!important;
-}
 .gb_we.gb_ue {
     color: var(--textcolor)!important;
 }
@@ -777,9 +771,6 @@ body:not(.GDqYkf) [data-ogpc]:not(.GDqYkf) {
     -moz-box-shadow:none!important;
     box-shadow:none!important;
 }
-.gb_qe {
-    background: var(--darkgrey)!important;
-}
 span.gb_Sd.gb_Ud {
     color: var(--textcolor)!important;
 }
@@ -821,9 +812,6 @@ button.gb_cf {
 }
 .gb_ja:not(.gb_ka) .gb_rd {
     background-color: #1b1b1b;
-}
-.gb_Qe {
-    background-color: var(--lightgrey)!important;
 }
 .JkHSnc {
     color:var(--textcolor)!important;
@@ -955,14 +943,9 @@ a.gb_Fb.gb_5f.gb_dg.gb_Ne.gb_Vc {
     background-color:var(--midgrey)!important;
     border: none!important;
 }
-.gb_1c:not(.gb_Pe) .gb_Qe, .gb_Ve:not(.gb_5d):not(.gb_Te) {
+.gb_1c:not(.gb_Pe), .gb_Ve:not(.gb_5d):not(.gb_Te) {
     background-color: var(--darkgrey)!important;
 }
-
-.gb_3e {
-        background-color: var(--lightgrey)!important;
-}
-
 .YtXOzd.wRziJb {
         background-color: var(--lightgrey)!important;
         color: var(--textcolor)!important;
@@ -1088,9 +1071,6 @@ span.CLrHye {
 .gb_xb {
     color: var(--lightgrey)!important;
 }
-.gb_6e {
-    background-color: var(--lightgrey)!important;
-}
 .gb_Rc .gb_Sc {
     background-color: var(--darkgrey)!important;
 }
@@ -1103,4 +1083,23 @@ span.CLrHye {
 }
 a.gb_zb.gb_9f {
     background-color: var(--lightgrey)!important;
+}
+.gb_4e {
+    background-color: var(--lightgrey)!important;
+}
+.gb_4.gb_je:hover {
+    border-color: var(--bluecolor)!important;
+}
+.gb_l .gb_mb {
+    background-color: var(--lightgrey)!important;
+    color: var(--textcolor)!important;
+}
+.gb_sb:hover {
+    text-decoration: underline!important;
+}
+.gb_wb.gb_wb {
+        background-color: var(--lightgrey)!important;
+}
+.gb_Db:hover {
+    border-color: var(--bluecolor)!important;
 }
